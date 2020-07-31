@@ -1,3 +1,4 @@
 # ReactNative_weather_app
-학교에서 안드로이드 & 리엑트라는 수업에서 만들어본 앱입니다.
-리엑트 네이티브를 처음 접해봐서 이것저것 아는 것이 없었지만, 간단한 날씨api를 받아서 현재 위치의 날씨를 알려주는 화면과 뉴스api를 받아서 보고 싶은 뉴스가 있으면 눌러 사이트로 넘겨주는 화면까지 제작을 해보았습니다.
+<p>Android & React at school is the app I made in class.</p>
+<p>When I first saw React Native, I didn't know anything about it, but I tried to produce a simple weather api to show the weather at the current location and a news api to get to the site.</p>
+# Screenshot
