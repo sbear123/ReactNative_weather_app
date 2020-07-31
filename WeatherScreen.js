@@ -42,7 +42,7 @@ class WeatherScreen extends React.Component {
     render(){
       return (
         <SafeAreaView style={styles.container}>
-          <Header/>
+          {/* <Header/> */}
           {
             this.state.loading ? <Text>Weather</Text> : <Weather data={this.state.weather} />
           }

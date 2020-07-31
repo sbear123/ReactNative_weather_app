@@ -1,14 +1,16 @@
 import { StatusBar } from 'expo-status-bar';
 import React, {Component} from 'react';
-import { StyleSheet, Text, SafeAreaView, Alert } from 'react-native';
-import * as Location from 'expo-location';
+import { StyleSheet, Text, SafeAreaView } from 'react-native';
+import Header from './Header';
+import News from './News';
 
 class NewScreen extends React.Component {
     render() {
       return (
-        <View style={styles.container}>
-          <Text style={{fontSize:30}}>News</Text>
-        </View>
+        <SafeAreaView style={styles.container}>
+          {/* <Header/> */}
+          <News />
+        </SafeAreaView>
       )
     }
   }
