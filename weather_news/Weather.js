@@ -50,8 +50,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#fff',
     alignItems: 'center',
-    justifyContent: 'flex-start',
-    paddingTop: 90,
+    justifyContent: 'center',
   },
   text1: {
     fontSize: 20
